@@ -48,7 +48,7 @@
   &-headline {
     font-size: 1.5rem;
     margin: 1rem;
-    color: $theme-color-main-contrast;
+    color: red;
 
     @include media-breakpoint-up(lg) {
       font-size: 2rem;
